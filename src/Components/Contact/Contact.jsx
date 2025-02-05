@@ -1,5 +1,5 @@
 import React from 'react'
-import contact from '../../images/contact.jpg'
+import contact from 'file:///E:/eslam/application/src/images/contact.jpg'
 export default function Contact() {
   return <>
   <div className="contact py-3">

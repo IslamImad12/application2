@@ -1,5 +1,5 @@
 import React from 'react'
-import img1 from '../../images/16169.jpg'
+import img1 from 'file:///E:/eslam/application/src/images/16169.jpg'
 export default function Ser1() {
   return <>
       <div className="container py-5">

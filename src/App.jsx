@@ -51,7 +51,7 @@ function App() {
         ],
       },
     ],
-    // { basename: '/my-app' } // عدل هذا المسار حسب مسار تطبيقك
+    // { basename: '/my-app' } 
   );
   
   return <>
