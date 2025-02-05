@@ -1,5 +1,5 @@
 import React from 'react'
-import img55 from 'file:///E:/eslam/application/src/images/about.png'
+import img55 from '../../images/about.png'
 
 export default function About() {
   return (<>

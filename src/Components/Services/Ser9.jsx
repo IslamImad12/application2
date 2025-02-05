@@ -1,5 +1,5 @@
 import React from 'react'
-import img4 from 'file:///E:/eslam/application/src/images/img9.jpg'
+import img4 from '../../images/img9.jpg'
 export default function Ser9() {
   return <>
         <div className="container py-5">
